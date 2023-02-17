@@ -1,4 +1,7 @@
-### Hi there 👋
+### data의 많은 것을 연구하는 개발자 정영운입니다.
+### ML/DL, Data analystic 쪽 공부를 하고 있습니다.
+
+> 특징 : 악으로 깡으로 버티는 개발자👋
 
 <!--
 **yuj0630/yuj0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
