@@ -8,6 +8,7 @@
 > > 
 > > 이 개발자는 무엇이든 악으로 깡으로 합니다.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuj0630)](https://github.com/yuj0630/github-readme-stats)
 <!--
 **yuj0630/yuj0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
