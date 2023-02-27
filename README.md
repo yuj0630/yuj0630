@@ -1,4 +1,4 @@
-### data의 모든 것을 연구하고 싶은 개발자 정영운입니다.
+### data insight를 가지고 싶은 개발자입니다.
 ### ML/DL, Data Engineering 공부를 하고 있습니다.
 
 > 특징
