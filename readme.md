@@ -10,7 +10,7 @@
 > >
 > > 4. 이 개발자는 먼지 같은 존재가 되지 않기 위해 발악합니다.
 > >
-> > 5. 이 개발자는 나만의 매력을 찾고 싶습니다.
+> > 5. 이 개발자는 나만의 매력을 찾고 있습니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuj0630)](https://github.com/yuj0630/github-readme-stats)
 <!--
