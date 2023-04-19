@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=영운의 깃허브&fontSize=90" />
+
 ### data insight를 가지고 싶은 개발자입니다.
 ### ML/DL, Data Engineer 분야를 하고 있습니다.
   
