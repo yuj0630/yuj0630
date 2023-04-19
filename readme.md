@@ -1,6 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=영운의 깃허브&fontSize=90" />
+# Hi there, I'm YuJ!
 
-### data insight를 가지고 싶은 개발자입니다.
+I'm a software engineer who is passionate about building great software and creating enjoyable user experiences.
+
+## Skills
+
+- css, javascript, react, node.js
+- java, spring, django, mariadb, postgresql, oracle, redis
+- python, tensorflow, pytorch
+- linux, docker, kubenates
+- github, slack
+
+## Contact
+
+- [Email](mailto:un3561@naver.com)
+
 ### ML/DL, Data Engineer 분야를 하고 있습니다.
   
 > 1. 이 개발자는 ML/DL 자동화에 관심이 많습니다.
