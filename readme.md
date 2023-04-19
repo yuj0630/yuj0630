@@ -15,7 +15,7 @@
 - css, javascript, react, node.js
 - java, spring, django, mariadb, postgresql, oracle, redis
 - python, tensorflow, pytorch
-- linux, docker, kubenates
+- linux, docker, kubenates, aws
 - github, slack
 
 ## Contact
