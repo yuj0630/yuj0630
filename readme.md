@@ -13,9 +13,10 @@
 ## Skills
 
 - css, javascript, react, node.js
-- java, spring, django, mariadb, postgresql, oracle, redis
+- java, spring, django, flask, mariadb, postgresql, oracle, redis
 - python, tensorflow, pytorch
-- linux, docker, aws
+- linux, docker, kubernetes, aws
+- hadoop, hive, spark
 - github, slack
 
 ## Contact
