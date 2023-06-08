@@ -17,6 +17,7 @@
 - python, tensorflow, pytorch
 - linux, docker, kubernetes, aws
 - hadoop, hive, spark
+- kotlin
 - github, slack
 
 ## Contact
