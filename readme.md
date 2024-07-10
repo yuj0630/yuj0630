@@ -3,7 +3,8 @@
 ## Skills
 
 - Web : spring, jsp, django, flask, react, next.js
-- DB : postgresql, mariadb, redis
+- DB : postgresql, mariadb, oracle
+- ML/DL : pytorch
 - Data : Vision, OCR, LLM
 - Network : linux, docker, aws
 - RPA : Brity RPA, Worktronics
