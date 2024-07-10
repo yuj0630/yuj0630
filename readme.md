@@ -2,13 +2,13 @@
 
 ## Skills
 
-- css, javascript, react, node.js
-- java, spring, django, flask, mariadb, postgresql, oracle, redis
-- python, tensorflow, pytorch
-- linux, docker, kubernetes, aws
-- hadoop, hive, spark
-- kotlin
-- github, slack
+- Web : spring, jsp, django, flask, react, next.js
+- DB : postgresql, mariadb, redis
+- Data : Vision, OCR, LLM
+- Network : linux, docker, aws
+- RPA : Brity RPA, Worktronics
+- etc : QGIS(VURIX)
+- tool : github, notion, slack, jandi
 
 ## Contact
 
