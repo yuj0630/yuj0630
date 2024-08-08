@@ -1,4 +1,4 @@
-# Develop engineer / develop PM
+# Develop engineer / Develop PM
 
 ## Skills
 
