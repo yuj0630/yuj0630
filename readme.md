@@ -1,14 +1,14 @@
-# Develop engineer / Develop PM
+# Develop engineer / PM
 
 ## Skills
 
-- Web : spring, jsp, django, flask, react, next.js
-- DB : postgresql, mariadb, oracle
+- Web : spring, jsp, django, flask, FastAPI, react, next.js
+- DB : mysql(mariaDB), postgresql, mongoDB
 - ML/DL : pytorch
 - Data : Vision, OCR, LLM
 - Network : linux, docker, aws
 - RPA : Brity RPA, Worktronics
-- etc : QGIS(VURIX)
+- etc : QGIS
 - tool : github, notion, slack, jandi
 
 ## Contact
