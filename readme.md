@@ -4,7 +4,7 @@
 
 - Web : spring, jsp, django, flask, FastAPI, react, next.js
 - DB : mysql(mariaDB), postgresql, mongoDB
-- ML/DL : pytorch
+- ML/DL : pytorch, langchain
 - Data : Vision, OCR, LLM
 - Network : linux, docker, aws
 - RPA : Brity RPA, Worktronics
