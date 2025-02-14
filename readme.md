@@ -2,14 +2,18 @@
 
 ## Skills
 
-- Web : spring, jsp, django, flask, FastAPI, react, next.js
-- DB : mysql(mariaDB), postgresql, mongoDB
-- ML/DL : pytorch, langchain
-- Data : Vision, OCR, LLM
+- Web : django, flask, FastAPI, react, next.js
+- DB : mysql(mariaDB), postgresql, redis
+- ML/DL : openCV(Vision), langchain(LLM), OCR(tesseract)
 - Network : linux, docker, aws
 - RPA : Brity RPA, Worktronics
 - etc : QGIS
 - tool : github, notion, slack, jandi
+
+## Info
+- 안녕하세요. 주니어 개발자 영럭입니다.
+- 현재 GIS 솔루션 엔지니어 및 AI/RPA 개발자로 근무 중입니다.
+- 공공기관 쪽 AI 개발 및 데이터 최적화를 지향합니다.
 
 ## Contact
 
